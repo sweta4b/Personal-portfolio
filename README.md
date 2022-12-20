@@ -1,2 +1,3 @@
-# Mark-three assignment
-Made this project as a part of neogcamp.
+# Personal-portfolio
+This is my Personal-porfolio that holds information about my various projects.<br/>
+All of my projects are available at https://bishtsweta-my-website.netlify.app
