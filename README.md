@@ -4,7 +4,7 @@
 It is created using HTML and CSS.
 
 ## About
-This is my portfolio website created using reactJS, html and css. It lists project I have created, their source code and also blogs writen by me.
+This is my portfolio website created using HTML and CSS. It lists project I have created, their source code and also blogs writen by me.
 Checkout the link here: https://bishtsweta-my-website.netlify.app
 
 ### How it works
